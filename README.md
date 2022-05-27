@@ -1,4 +1,9 @@
-# Lite Rx API Hands-on
+# FR-Lite Rx API Hands-on
+
+Programación reactiva y funcional: Lite Rx API Hands-on
+
+Lite Rx API Hands-on
+======================
 
 This Hands-on is designed to help you to learn easily the lite Rx API provided by [Reactor Core 3.x](https://github.com/reactor/reactor-core/).
 
